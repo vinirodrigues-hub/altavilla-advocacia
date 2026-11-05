@@ -1,0 +1,15 @@
+/* navbar */
+.navbar{
+    background-color: #142238;
+}
+.nav-link {
+    color: white !important;
+    transform: color 0.3s;
+}
+.nav-link:hover{
+    color: #c9a45c !important;
+}
+.logo{
+    width: 200px;
+    filter: brightness(0) invert(1);  
+}
