@@ -219,13 +219,56 @@ body{
     color: #3b3d44;
     font-size: 1rem;
 }
-
-/* O escritório */
-
-.escritorio{
-    background-color: #060608;
+/* Contato */
+.contato{
+    background-color: #F5F3EE;
+    padding: 100px;
+}
+.contatoh1{
+    font-family: 'DM Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #B8903F;
+    letter-spacing: 3px;
+    margin-bottom: 1rem;
+}
+.contatoh2{
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #0a101a;
+    text-align: left;
+}
+.contatop{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.20rem;
+    font-weight: 400;
+    line-height: 1.9;
+    color: #5a5f6b;
+    margin-bottom: 1.5rem;
+    text-align: left;
 }
 
-.escritorioimg{
+.contatoimg{
+    width: 200px;
+    transition: all 0.3s ease;
+    border-radius: 30px;
+}
 
+.contatoimg:hover{
+    transform: translateY(-6px);
+    background-color: #B8903F;
+   
+}
+
+/* Footer */
+footer{
+  background-color: #0B0B0D;
+  color: white;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  padding: 10px;
+  text-align: center;
 }
