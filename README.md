@@ -83,7 +83,7 @@ Faixa preta com: *© 2026 Dorneles Advocacia - Todos os Direitos Reservados :: D
 
 ## Melhorias futuras
 - Responsividade: é preciso melhorar a responsividade do site. O layout foi pensado principalmente para telas grandes e ainda precisa de ajustes em tablets e celulares (menu, hero, cards das áreas de atuação, ícones de contato e espaçamentos).
-
+- Botão "Agende sua consulta ->" no hero: é preciso concertar o bug que não direciona a aba contato.
 ## Autoria
 
 Desenvolvido por **Vinícius Rodrigues** para **Dorneles Advocacia**.
