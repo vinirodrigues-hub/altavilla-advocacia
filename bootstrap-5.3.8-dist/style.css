@@ -49,12 +49,14 @@ body{
     color: #E3B96B;
     font-size: 1rem;
     font-family: 'Lato', sans-serif;
+    
 }
 .heroh1{
     font-size: 4rem;
     padding-top: 10px;
     font-family: 'Playfair Display', serif;
     color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 .heroh3{
@@ -62,6 +64,7 @@ body{
     padding-top: 10px;
     color: aliceblue;
     font-family: 'Inter', sans-serif;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
 }
 #hero button{
     background-color: #D4A24C;
@@ -94,12 +97,12 @@ body{
 /* sobre */
 .about {
     background-color: #F5F3EE;
-    padding: 90px 0;
+    padding: 100px 0;
 }
 
-.abouth1 {                       /* rótulo pequeno "SOBRE MIM" */
+.abouth1 {                       
     font-family: 'DM Sans', sans-serif;
-    font-size: 0.75rem;
+    font-size: 1rem;
     font-weight: 600;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -110,7 +113,7 @@ body{
 
 .abouth2 {
     font-family: 'Playfair Display', serif;
-    font-size: 2.4rem;
+    font-size: 3rem;
     font-weight: 500;
     line-height: 1.2;
     color: #142238;
@@ -134,4 +137,95 @@ body{
     color: #5a5f6b;
     margin-bottom: 1.5rem;
     text-align: left;
+}
+
+/* Áreas de atuação */
+
+.atuacao{
+    padding: 100px 0;
+    text-align: center;
+}
+
+.atuacaoh1{
+    font-family: 'DM Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #B8903F;
+    letter-spacing: 3px;
+    margin-bottom: 1rem;
+}
+
+.atuacaoh2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+.atuacaop{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.05rem;
+    color: #3b3d44;
+    margin-bottom: 2rem;
+}
+
+.grid{
+    margin-bottom: 2rem;
+    max-width: 800px;
+    height: 40vh;
+}
+.card{
+    border-radius: 0;
+    padding: 32px 28px;
+    transition: all 0.3s ease;
+}
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    border-color: #c0a068;
+}
+.previdenciario{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.label{
+    text-align: left;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    color: #B8903F;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.card h3{
+    text-align: left;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.card p{
+    text-align: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    font-family: 'DM Sans', sans-serif;
+    color: #3b3d44;
+    font-size: 1rem;
+}
+
+/* O escritório */
+
+.escritorio{
+    background-color: #060608;
+}
+
+.escritorioimg{
+
 }
