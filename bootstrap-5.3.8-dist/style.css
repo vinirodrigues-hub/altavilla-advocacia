@@ -32,12 +32,12 @@ body{
 /* hero */
 
 #hero{
-    background-image: url(img/hero2.png);
+    background-image: url(img/hero.png);
     background-repeat: no-repeat;
     background-position: unset;
     background-size: cover;
     width: 100%;
-    height: 80vh;
+    height: 100vh;
 }
 .herotext{
     
