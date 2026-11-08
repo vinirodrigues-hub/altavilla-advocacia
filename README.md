@@ -80,6 +80,22 @@ Faixa preta com o crédito: *© 2026 - Desenvolvido por: Vinícius Silva Rodrigu
 - CSS3 (transições, hover, `filter: drop-shadow`)
 - Bootstrap (sistema de grid: `row` e `col-lg-*`)
 
+
+## Como rodar
+ 
+O projeto é um site estático (HTML, CSS e Bootstrap). Não precisa instalar nada nem rodar servidor.
+ 
+1. **Baixe o projeto.** No GitHub, clique em **Code > Download ZIP**. Se preferir usar o Git, rode `git clone <link-do-repositório>`.
+2. **Extraia o ZIP** (se tiver baixado compactado), mantendo todas as pastas e arquivos juntos, sem mudar a organização. Mover só o HTML faz as imagens e os estilos pararem de carregar.
+3. **Abra a pasta `bootstrap`.** O arquivo principal, o **`index.html`**, está dentro dela.
+4. **Abra o `index.html` no navegador** com duplo clique (ou clique com o botão direito > Abrir com > Chrome, Edge ou Firefox).
+**Dica (opcional):** para editar o código e ver as mudanças ao vivo, abra a pasta no VS Code e use a extensão **Live Server** (botão direito no `index.html` > *Open with Live Server*).
+ 
+**Requisitos:**
+ 
+- Um navegador atualizado (Chrome, Edge, Firefox ou Safari).
+- Conexão com a internet, caso o projeto carregue o Bootstrap, as fontes ou os ícones por link externo (CDN). Sem internet, o visual pode aparecer sem estilo ou com fontes diferentes.
+
 ## Pontos de atenção
 
 - **Conteúdo fictício:** nenhuma informação do site representa um escritório real. Se o layout for usado para um cliente de verdade, troque nome, OAB, textos, imagens e links, e confira as regras de publicidade da OAB.
