@@ -20,7 +20,7 @@ Barra preta no topo, com a logo do escritório à esquerda (monograma "A" em dou
 | **Início** | Leva ao topo da página (seção principal). |
 | **Sobre** | Leva à seção "Sobre a empresa". |
 | **Áreas de atuação** | Leva à seção com os cards das áreas do direito. |
-| **Escritório** | Leva à seção "O escritório", que vem logo depois das áreas de atuação. |
+| **O escritório** | Leva à seção "O escritório", que vem logo depois das áreas de atuação. |
 | **Contato** | Leva à seção de contato, no final da página. |
 
 ### 2. Início (hero)
