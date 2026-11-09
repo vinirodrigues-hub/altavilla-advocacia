@@ -219,6 +219,77 @@ body{
     color: #3b3d44;
     font-size: 1rem;
 }
+
+/* O escritório */
+.escritorio{
+    background-color: #0a101a;
+    padding: 100px;
+}
+
+.escritorioimg{
+    width: 800px;
+    margin-top: 160px; 
+    padding-right: 350px;
+}
+
+.escritorioh1{
+    font-family: 'DM Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #B8903F;
+    letter-spacing: 3px;
+    margin-bottom: 1rem;
+}
+
+.escritoriohr{
+    width: 60px;
+    height: 2px;
+    background-color: #B8903F;
+    border: none;
+    opacity: 1;
+    margin: 1.5rem 0 0;
+    margin-bottom: 1rem;
+}
+
+.escritorioh2{
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: white;
+}
+
+.escritoriop{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.20rem;
+    font-weight: 400;
+    line-height: 1.9;
+    color: #5a5f6b;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.escritorio button{
+    background-color: #D4A24C;
+    border-radius: 10px;
+    padding: 16px 25px;
+    border: none;
+    margin-top: 30px;
+    transition: all 0.3s ease;
+}
+
+.escritorio button:hover{
+    background-color: #f7b251;
+    transform: translateY(-6px);
+}
+
+.btn-escritorio{
+    text-decoration: none;
+    color: #0a101a;
+    font-family: 'Inter', sans-serif;
+}
+
 /* Contato */
 .contato{
     background-color: #F5F3EE;
