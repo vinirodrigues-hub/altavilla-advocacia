@@ -114,7 +114,7 @@ O projeto é um site estático (HTML, CSS e Bootstrap). Não precisa instalar na
 
 ## Melhorias futuras
 
-- **Responsividade:** o site **ainda não está totalmente responsivo**. O layout foi pensado principalmente para telas grandes e precisa de ajustes em tablets e celulares (menu, hero, cards das áreas de atuação, ícones de contato e espaçamentos). É algo para revisar daqui a um tempo.
+- **Responsividade:** o site **ainda não está totalmente responsivo**. O layout foi pensado principalmente para telas grandes e precisa de ajustes em tablets e celulares. É algo para revisar daqui a um tempo.
 - **Links reais** nos ícones de WhatsApp e Instagram, se o projeto deixar de ser só uma demonstração.
 
 ## Autoria
