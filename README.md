@@ -14,12 +14,13 @@ A página é de rolagem única e tem 5 partes, de cima para baixo.
 
 ### 1. Cabeçalho (menu)
 Barra preta no topo, com a logo do escritório à esquerda (monograma "A" em dourado, o nome "ALTAVILLA", "ADVOCACIA" e o placeholder de OAB) e o menu de navegação.
-
+ 
 | Item do menu | O que faz |
 |---|---|
 | **Início** | Leva ao topo da página (seção principal). |
 | **Sobre** | Leva à seção "Sobre a empresa". |
 | **Áreas de atuação** | Leva à seção com os cards das áreas do direito. |
+| **Escritório** | Leva à seção "O escritório", que vem logo depois das áreas de atuação. |
 | **Contato** | Leva à seção de contato, no final da página. |
 
 ### 2. Início (hero)
@@ -47,7 +48,16 @@ Título "Áreas de atuação" com o rótulo "COMO PODEMOS AJUDAR" e uma breve in
 Os cards **não são botões e não levam a lugar nenhum**. Ao passar o mouse, o card aumenta levemente, ganha uma sombra suave e a borda fica dourada (efeito apenas visual). O terceiro card fica centralizado e mais estreito, de propósito.
 <img width="1348" height="602" alt="image" src="https://github.com/user-attachments/assets/3a4a22b9-bdbb-4a0e-a792-fbd52a3b5bb2" />
 
-### 5. Entre em contato
+### 5. O escritório
+Seção com fundo azul-marinho escuro, que vem logo depois das áreas de atuação. À esquerda aparece a logo do Altavilla Advocacia (monograma "A" dourado, nome e placeholder de OAB). À direita ficam:
+ 
+- **Rótulo:** "O ESCRITÓRIO", com um pequeno traço dourado.
+- **Título:** "Uma advocacia próxima, estratégica e humana."
+- **Texto:** explica o propósito de tornar o caminho jurídico mais compreensível, com atenção individualizada e acompanhamento alinhado às necessidades de cada cliente.
+- **Botão "Entre em contato"** (dourado): leva para a **seção de contato**, no final da página.
+<img width="1345" height="601" alt="image" src="https://github.com/user-attachments/assets/bcbbb533-0019-462d-99cf-c07f8b89615c" />
+
+### 6. Entre em contato
 Fundo bege, rótulo "ENTRE EM CONTATO", o título "Vamos conversar sobre o seu caso?" e um texto curto convidando o visitante a enviar uma mensagem. À direita, dois ícones:
 
 | Ícone | Função |
