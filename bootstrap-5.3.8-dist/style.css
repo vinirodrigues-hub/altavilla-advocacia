@@ -335,7 +335,7 @@ body{
 }
 
 .contatoimg{
-    width: 200px;
+    width: 100px;
     transition: all 0.3s ease;
     border-radius: 30px;
 }
