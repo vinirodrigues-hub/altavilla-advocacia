@@ -9,7 +9,7 @@ body{
 
 /* navbar */
 .navbar{
-    background-color: #0B0B0D;
+    background-color: #0a101a;
     position: fixed;
     top: 0;
     left: 0;
@@ -348,7 +348,7 @@ body{
 
 /* Footer */
 footer{
-  background-color: #0B0B0D;
+  background-color: #0a101a;
   color: white;
   font-family: 'DM Sans', sans-serif;
   font-weight: 400;
