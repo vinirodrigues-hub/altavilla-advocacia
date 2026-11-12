@@ -13,7 +13,7 @@ O objetivo da página é apresentar o escritório, mostrar as áreas de atuaçã
 A página é de rolagem única e tem 5 partes, de cima para baixo.
 
 ### 1. Cabeçalho (menu)
-Barra preta no topo, com a logo do escritório à esquerda (monograma "A" em dourado, o nome "ALTAVILLA", "ADVOCACIA" e o placeholder de OAB) e o menu de navegação.
+Barra azul escura no topo, com a logo do escritório à esquerda (monograma "A" em dourado, o nome "ALTAVILLA", "ADVOCACIA" e o placeholder de OAB) e o menu de navegação. Quando desce pelas abas a barra fica transparente.
  
 | Item do menu | O que faz |
 |---|---|
@@ -29,8 +29,9 @@ Seção de abertura com fundo escuro, detalhes em dourado e uma imagem da estát
 - **Rótulo:** "ALTAVILLA ADVOCACIA"
 - **Título:** "Seus direitos merecem atenção e cuidado."
 - **Texto de apoio:** apresenta a atuação baseada em ética, transparência e dedicação.
-- **Botão "Entre em contato"** (dourado): leva direto para a **seção de contato**, no final da página.
-<img width="1347" height="600" alt="image" src="https://github.com/user-attachments/assets/4b6dba4a-1371-46b7-8a97-4e0d7de279a9" />
+- **Botão "Agende sua consulta"** (dourado): leva direto para a **seção de contato**, no final da página.
+<img width="1341" height="632" alt="image" src="https://github.com/user-attachments/assets/2da439a0-b7cd-43b0-bd30-f1a770a44e64" />
+
 
 ### 3. Sobre a empresa
 Fundo bege claro, em duas colunas: à esquerda o título "Compromisso, qualidade e confiança em cada projeto."; à direita três parágrafos sobre o escritório (propósito de tornar o caminho jurídico mais claro, ética e transparência, e as áreas em que atua). Seção apenas informativa, sem botões.
@@ -68,8 +69,9 @@ Fundo bege, rótulo "ENTRE EM CONTATO", o título "Vamos conversar sobre o seu c
 Os ícones só existem para mostrar como ficaria o contato em um site real. Em um projeto real, bastaria colocar o link do WhatsApp e do perfil do Instagram nos dois ícones.
 
 ### Rodapé
-Faixa preta com o crédito: *© 2026 - Desenvolvido por: Vinícius Silva Rodrigues*.
-<img width="1351" height="546" alt="image" src="https://github.com/user-attachments/assets/62cbf320-e91f-4e1c-85bc-590dc0b2584f" />
+Faixa azul escura com o crédito: *© 2026 - Desenvolvido por: Vinícius Silva Rodrigues*.
+<img width="1340" height="501" alt="image" src="https://github.com/user-attachments/assets/b134578f-53da-4d97-b4a0-d25bb74e5cbf" />
+
 
 ---
 
